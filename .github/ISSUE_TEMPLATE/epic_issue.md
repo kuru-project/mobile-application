@@ -15,5 +15,5 @@ This Feature will...
 
 # List of Tasks (Complete in order)
 
-1. [ ] Task 1 https://github.com/kuru-project/main-website-server/issues/1
-2. [ ] Task 2 https://github.com/kuru-project/main-website-server/issues/2
+1. [ ] Task 1 https://github.com/kuru-project/mobile-application/issues/1
+2. [ ] Task 2 https://github.com/kuru-project/mobile-application/issues/2
